@@ -1,0 +1,17 @@
+{
+  "name": "learnyoumongo-solutions",
+  "version": "1.0.0",
+  "description": "Solutions to exercises in learnyoumongo module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "node",
+    "mongo",
+    "npm",
+    "express"
+  ],
+  "author": "Shashank Shekhar",
+  "license": "ISC"
+}
